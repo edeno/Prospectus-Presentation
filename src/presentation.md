@@ -2,48 +2,50 @@
 % Eric Denovellis
 % November 23, 2015
 
-# Background: The Role of ACC and dlPFC in Supporting Flexible Behavior
+## Background: The Role of ACC and dlPFC in Supporting Flexible Behavior
 
-# The Dataset
+### The Dataset
 
-# Task Factors that Aﬀect the Amount of Attention Needed
+### Task Factors that Aﬀect the Amount of Attention Needed
 
-# Aim \#1: Synchronous Oscillatory Neural Ensembles for Rules in the Prefrontal Cortex
+## Aim \#1: Synchronous Oscillatory Neural Ensembles for Rules in the Prefrontal Cortex
 
-# Analysis of ACC and dlPFC-ACC Synchrony
+### Rule-dependent networks in dlPFC
 
-# Aim \#2: The Functional Contribution of ACC and dlPFC Neurons to Circuit-level Dynamics and Behavior during Task Switching
+### Analysis of ACC and dlPFC-ACC Synchrony
 
-# Motivation for Aim \#2 and Aim \#3
+## Aim \#2: The Functional Contribution of ACC and dlPFC Neurons to Circuit-level Dynamics and Behavior during Task Switching
 
-# Tools for Investigating Multi-dimensional Models
+## Motivation for Aim \#2 and Aim \#3
 
-# SFN Poster 1 and 2 Problems
+### Tools for Investigating Multi-dimensional Models
 
-# Proposed Corrections at Qualifying Exam
+### SFN Poster 1 and 2 Problems
 
-# Current State: Proposed models
+### Proposed Corrections at Qualifying Exam
 
-# Aim \#3: Visualizations
+### Current State: Proposed models
 
-# The purpose of visualization in science
+## Aim \#3: Visualizations
 
-# Static visualizations are limited in multi-dimensional investigations
+### The purpose of visualization in science
 
-# Interactive visualizations can help us quickly make comparisons and deal with complexity
+### Static visualizations are limited in multi-dimensional investigations
 
-# Dynamic visualizations, when combined with interactivity, can help us understand complex data by preserving relationships between data
+### Interactive visualizations can help us quickly make comparisons and deal with complexitys
 
-# Web-enabled visualizations are familiar, easily shareable, and enable analysis transparency
+### Dynamic visualizations, when combined with interactivity, can help us understand complex data by preserving relationships between data
 
-# Related Work
+### Web-enabled visualizations are familiar, easily shareable, and enable analysis transparency
 
-# RasterVis
+### Related Work
 
-# SpectraVis
+### RasterVis
 
-# glmVis
+### SpectraVis
 
-# Linking visualizations together to explore datasets
+### glmVis
 
-# Summary and Conclusion
+### Linking visualizations together to explore datasets
+
+## Summary and Conclusion
