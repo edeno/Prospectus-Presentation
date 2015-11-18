@@ -2,7 +2,7 @@
 % Eric Denovellis
 % November 23, 2015
 
-# Background: The Role of ACC and dlPFC in Supporting Fexible Behavior
+# Background: The Role of ACC and dlPFC in Supporting Flexible Behavior
 
 # The Dataset
 
@@ -12,14 +12,38 @@
 
 # Analysis of ACC and dlPFC-ACC Synchrony
 
+# Aim \#2: The Functional Contribution of ACC and dlPFC Neurons to Circuit-level Dynamics and Behavior during Task Switching
+
 # Motivation for Aim \#2 and Aim \#3
 
 # Tools for Investigating Multi-dimensional Models
 
-# Generalized Linear models
+# SFN Poster 1 and 2 Problems
 
-# Visualizations
+# Proposed Corrections at Qualifying Exam
 
-# Visualization Justification
+# Current State: Proposed models
 
-# Progress
+# Aim \#3: Visualizations
+
+# The purpose of visualization in science
+
+# Static visualizations are limited in multi-dimensional investigations
+
+# Interactive visualizations can help us quickly make comparisons and deal with complexity
+
+# Dynamic visualizations, when combined with interactivity, can help us understand complex data by preserving relationships between data
+
+# Web-enabled visualizations are familiar, easily shareable, and enable analysis transparency
+
+# Related Work
+
+# RasterVis
+
+# SpectraVis
+
+# glmVis
+
+# Linking visualizations together to explore datasets
+
+# Summary and Conclusion
