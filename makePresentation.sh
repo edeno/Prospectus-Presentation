@@ -2,7 +2,7 @@
 # Make presentation
 pandoc src/presentation.md \
   --to revealjs \
-  --variable revealjs-url="public/reveal.js" \
+  --variable revealjs-url="public/revealjs" \
   --normalize \
   --standalone \
   --self-contained \
