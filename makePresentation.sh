@@ -1,8 +1,8 @@
 #!/bin/sh
 # Make presentation
-pandoc
-  src/presentation.md \
-  -t revealjs \
+pandoc src/presentation.md \
+  --to revealjs \
+  --variable revealjs-url="public/reveal.js" \
   --normalize \
   --standalone \
   --self-contained \
