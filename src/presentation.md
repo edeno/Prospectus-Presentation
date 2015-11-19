@@ -9,7 +9,23 @@
 
 . . .
 
-# Task Factors that Aﬀect the Amount of Attention Needed
+> "Each of the objects and events we encounter in the environment affords a range of possible actions in response to it. The appropriate response varies as a function of the task"
+--- Rogers & Monsell (1995)
+
+# Rule / Task Set / Context
+
+-  
+# Cognitive Demand: The monitoring and allocation of control
+
+# Functional Organization of the Prefrontal Cortex
+
+# The problem of the ACC
+
+# Worrying about mixed selectivity
+
+# Task Switching Paradigm
+
+# Factors that Aﬀect the Amount of Attention Needed
 
 # Outline
 
