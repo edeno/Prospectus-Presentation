@@ -10,5 +10,5 @@ pandoc src/presentation.md \
   --standalone \
   --self-contained \
   --smart \
-  --include-in-header "src/custom.css" \
+  --css "src/custom.css" \
   -o public/index.html
