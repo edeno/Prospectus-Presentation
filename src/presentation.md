@@ -2,19 +2,18 @@
 % Eric Denovellis
 % November 23, 2015
 
-# Outline
-
-- Background
-- Aim \#1
-- Aim \#2
-- Aim \#3
-- Conclusion
-
 # Background: The Role of ACC and dlPFC in Supporting Flexible Behavior
 
 # The Dataset
 
 # Task Factors that Aﬀect the Amount of Attention Needed
+
+# Outline
+
+- Aim \#1
+- Aim \#2
+- Aim \#3
+- Conclusion
 
 # Aim \#1
 
