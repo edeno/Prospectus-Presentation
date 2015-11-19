@@ -13,10 +13,10 @@
 
 # Outline
 
-- Aim \#1
-- Aim \#2
-- Aim \#3
-- Conclusion
+- Aim \#1: LFP Analysis
+- Aim \#2  Single Neuron and Population Analysis
+- Aim \#3: Tools for multi-dimensional investigation of electrophyisological datasets
+- Status of the Project
 
 # Aim \#1
 
