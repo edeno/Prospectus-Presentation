@@ -50,7 +50,6 @@ Appropriate Response
 +  An environmental stimuli might have a strong response associated with it, but we can pick a weaker, more appropriate response
 </aside>
 
--  
 # Cognitive Demand: The monitoring and allocation of control
 
 <aside class="notes">
