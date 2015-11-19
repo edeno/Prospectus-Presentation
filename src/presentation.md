@@ -2,7 +2,10 @@
 % Eric Denovellis
 % November 23, 2015
 
-# Background: The Role of ACC and dlPFC in Supporting Flexible Behavior
+# "Appropriate response varies as a function of the task" {data-background="img/apple-iphone.jpg"}
+<audio data-autoplay>
+  <source data-src="cellphoneVibrate.mp3" type="audio/mp3" />
+</audio>
 
 # The Dataset
 
