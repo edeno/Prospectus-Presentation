@@ -12,16 +12,60 @@
 > "Each of the objects and events we encounter in the environment affords a range of possible actions in response to it. The **appropriate response** varies as a function of the **task**"
 --- Rogers & Monsell (1995)
 
-# Rule / Task Set / Context
+<aside class="notes">
+Contrast
++ Answering phone in your office
++ Answering phone in this talk
+</aside>
+
+# Rule / Task Set
+
+What determines appropriate response?
+
+. . .
+
+Explicit Goals or Intention
+
+OR
+
+Context and Learned Rules (Internal states)
+
+. . .
+
+\+
+
+. . .
+
+Environmental stimuli
+
+. . .
+
+=
+
+Appropriate Response
+
+<aside class="notes">
++  conceptual boundary for what constitutes distinct tasks fuzzy
++  Can adopt rules / task sets before knowing what environmental stimuli there are
++  An environmental stimuli might have a strong response associated with it, but we can pick a weaker, more appropriate response
+</aside>
 
 -  
 # Cognitive Demand: The monitoring and allocation of control
+
+<aside class="notes">
++  need to configure appropriate set of processes linking sensory to motor (categorization, mapping, response)
++  Don't always need to control
++  Fluctuations in control
+</aside>
+
+# Prefrontal Cortex is important for monitoring and allocation of control
 
 # Functional Organization of the Prefrontal Cortex
 
 # The problem of the ACC
 
-# Worrying about mixed selectivity
+# Mixed selectivity
 
 # Task Switching Paradigm
 
