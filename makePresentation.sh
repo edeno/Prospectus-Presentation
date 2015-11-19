@@ -9,4 +9,5 @@ pandoc src/presentation.md \
   --standalone \
   --self-contained \
   --smart \
-  -o public/presentation.html
+  --include-in-header "src/custom.css" \
+  -o public/index.html
