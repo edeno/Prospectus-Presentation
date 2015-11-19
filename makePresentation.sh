@@ -3,7 +3,7 @@
 pandoc src/presentation.md \
   --to revealjs \
   --variable revealjs-url="public/revealjs" \
-  --variable slideNumber="true" \
+  --variable slideNumber="\"c/t\"" \
   --variable transition="none" \
   --variable controls="false" \
   --normalize \
