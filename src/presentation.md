@@ -9,7 +9,7 @@
 
 . . .
 
-> "Each of the objects and events we encounter in the environment affords a range of possible actions in response to it. The appropriate response varies as a function of the task"
+> "Each of the objects and events we encounter in the environment affords a range of possible actions in response to it. The **appropriate response** varies as a function of the **task**"
 --- Rogers & Monsell (1995)
 
 # Rule / Task Set / Context
@@ -31,7 +31,7 @@
 
 - Aim \#1: LFP Analysis
 - Aim \#2  Single Neuron and Population Analysis
-- Aim \#3: Tools for multi-dimensional investigation of electrophyisological datasets
+- NEW Aim \#3: Tools for multi-dimensional investigation of electrophyisological datasets
 - Status of the Project
 
 # Aim \#1
