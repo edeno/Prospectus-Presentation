@@ -2,12 +2,12 @@
 % Eric Denovellis
 % November 23, 2015
 
-# "Appropriate response varies as a function of the task" {data-background="img/apple-iphone.jpg"}
+# {data-background="img/apple-iphone.jpg"}
 <audio data-autoplay>
   <source data-src="cellphoneVibrate.mp3" type="audio/mp3" />
 </audio>
 
-# The Dataset
+. . .
 
 # Task Factors that Aﬀect the Amount of Attention Needed
 
