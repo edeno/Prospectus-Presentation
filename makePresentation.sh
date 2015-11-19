@@ -5,6 +5,7 @@ pandoc src/presentation.md \
   --variable revealjs-url="public/revealjs" \
   --variable slideNumber="true" \
   --variable transition="none" \
+  --variable controls="false" \
   --normalize \
   --standalone \
   --self-contained \
