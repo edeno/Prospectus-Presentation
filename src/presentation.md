@@ -60,22 +60,24 @@ Appropriate Response
 
 # Prefrontal Cortex is important for monitoring and allocation of control
 
+# Dynamics
+
 # Functional Organization of the Prefrontal Cortex
 
 # The problem of the ACC
 
 # Mixed selectivity
 
-# Task Switching Paradigm
-
-# Factors that Aﬀect the Amount of Attention Needed
-
 # Outline
-
+- Task Switching Paradigm
 - Aim \#1: LFP Analysis
 - Aim \#2  Single Neuron and Population Analysis
 - NEW Aim \#3: Tools for multi-dimensional investigation of electrophyisological datasets
 - Status of the Project
+
+# Task Switching Paradigm
+
+# Factors that Aﬀect the Amount of Attention Needed
 
 # Aim \#1
 
