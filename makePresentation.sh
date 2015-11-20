@@ -6,6 +6,7 @@ pandoc src/presentation.md \
   --variable slideNumber="\"c/t\"" \
   --variable transition="none" \
   --variable controls="false" \
+  --variable history="true" \
   --normalize \
   --standalone \
   --self-contained \
