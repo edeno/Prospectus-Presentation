@@ -5,6 +5,8 @@
   background:none;
   border:none;
   box-shadow:none;
+  max-width: 50%;
+  max-height: 50%;
 }
 .reveal blockquote {
   width: 85%;
