@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="395.13409"
-   height="348.40717"
-   viewBox="0 0 395.13409 348.40717"
+   width="907.29272"
+   height="800"
+   viewBox="0 0 907.29271 800.00001"
    id="svg37946"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -13197,16 +13197,16 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#080808"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="218.12666"
-     inkscape:cy="143.99334"
+     inkscape:zoom="1.21"
+     inkscape:cx="453.64637"
+     inkscape:cy="400"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g85854"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="1137"
@@ -13220,7 +13220,7 @@
      fit-margin-bottom="0"
      showguides="false">
     <sodipodi:guide
-       position="275.77165,-160.61426"
+       position="531.85103,65.182114"
        orientation="0.70710678,0.70710678"
        id="guide85852" />
   </sodipodi:namedview>
@@ -13240,10 +13240,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-231.00436,-206.73005)">
+     transform="translate(25.075023,19.066415)">
     <g
        id="g85854"
-       transform="matrix(2.1832812,0,0,2.38021,-507.12053,-525.76841)">
+       transform="matrix(5.0131719,0,0,5.4653528,-1719.9309,-1701.0031)">
       <g
          id="g28"
          transform="matrix(1.25,0,0,-1.25,335.36889,744.92918)">
@@ -53031,7 +53031,8 @@
                id="tspan25602"
                sodipodi:role="line"
                y="0"
-               x="0 5.2419367 9.2786636 10.89045 14.927176 17.344856 19.36322 24.605156 28.641884 30.25367">Color Rule</tspan>
+               x="0 5.2419367 9.2786636 10.89045 14.927176 17.344856 19.36322 24.605156 28.641884 30.25367"
+               style="fill:#ffffff">Color Rule</tspan>
           </text>
         </g>
       </g>
@@ -53044,17 +53045,20 @@
            id="tspan25606"
            sodipodi:role="line"
            y="454.01117"
-           x="376.4895 383.55014 386.57227 388.58698 393.6329 398.6788 401.20175 406.24768 408.77063 410.78537 415.83127 420.87717 423.40012 429.95255 434.99844 437.01318">Orientation Rule</tspan>
+           x="376.4895 383.55014 386.57227 388.58698 393.6329 398.6788 401.20175 406.24768 408.77063 410.78537 415.83127 420.87717 423.40012 429.95255 434.99844 437.01318"
+           style="fill:#ffffff">Orientation Rule</tspan>
         <tspan
            id="tspan25608"
            sodipodi:role="line"
            y="413.21738"
-           x="348.60089 354.14594 356.16068 360.69836 365.74426 368.26721 370.28195 375.32788">Fixation</tspan>
+           x="348.60089 354.14594 356.16068 360.69836 365.74426 368.26721 370.28195 375.32788"
+           style="fill:#ffffff">Fixation</tspan>
         <tspan
            id="tspan25610"
            sodipodi:role="line"
            y="375.97202"
-           x="388.17859 394.73102 399.77692 401.79166 406.83755 409.36053 415.91293 420.95886">Rule Cue</tspan>
+           x="388.17859 394.73102 399.77692 401.79166 406.83755 409.36053 415.91293 420.95886"
+           style="fill:#ffffff">Rule Cue</tspan>
       </text>
       <text
          id="text25616"
@@ -53065,7 +53069,8 @@
            id="tspan25618"
            sodipodi:role="line"
            y="381.41968"
-           x="433.22839 439.28165 441.80463 443.81934 451.37915 456.42505 458.43979 463.48569 473.73178 480.28421 485.33011 489.8678 494.91373 499.95963 505.00552 509.54321">StimulusResponse</tspan>
+           x="433.22839 439.28165 441.80463 443.81934 451.37915 456.42505 458.43979 463.48569 473.73178 480.28421 485.33011 489.8678 494.91373 499.95963 505.00552 509.54321"
+           style="fill:#ffffff">StimulusResponse</tspan>
       </text>
       <g
          id="g25620"
