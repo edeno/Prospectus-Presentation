@@ -18,29 +18,7 @@ Contrast
 
 # Rule / Task Set
 
-What determines appropriate response?
-
-. . .
-
-Explicit Goals or Intention
-
-OR
-
-Context and Learned Rules (Internal states)
-
-. . .
-
-\+
-
-. . .
-
-Environmental stimuli
-
-. . .
-
-=
-
-Appropriate Response
+![](public/img/goals-stimuli-response.svg)
 
 <aside class="notes">
 +  conceptual boundary for what constitutes distinct tasks fuzzy
