@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="907.29272"
-   height="800"
-   viewBox="0 0 907.29271 800.00001"
+   width="600"
+   height="529.04651"
+   viewBox="0 0 599.99999 529.04651"
    id="svg37946"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -13202,16 +13202,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.21"
-     inkscape:cx="453.64637"
-     inkscape:cy="400"
+     inkscape:zoom="0.605"
+     inkscape:cx="105.3719"
+     inkscape:cy="264.52326"
      inkscape:document-units="px"
      inkscape:current-layer="g85854"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="1137"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1440"
+     inkscape:window-height="878"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
@@ -13220,7 +13220,7 @@
      fit-margin-bottom="0"
      showguides="false">
     <sodipodi:guide
-       position="531.85103,65.182114"
+       position="378.20465,-70.294624"
        orientation="0.70710678,0.70710678"
        id="guide85852" />
   </sodipodi:namedview>
@@ -13240,13 +13240,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(25.075023,19.066415)">
+     transform="translate(-128.57135,-116.41038)">
     <g
        id="g85854"
        transform="matrix(5.0131719,0,0,5.4653528,-1719.9309,-1701.0031)">
       <g
          id="g28"
-         transform="matrix(1.25,0,0,-1.25,335.36889,744.92918)">
+         transform="matrix(0.82663506,0,0,-0.82663506,366.93584,621.64682)">
         <g
            clip-path="url(#clipPath32)"
            id="g30">
@@ -53038,43 +53038,43 @@
       </g>
       <text
          id="text25604"
-         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.07537556px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#373535;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="376.4895"
-         y="454.01117">
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00161839px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#373535;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="394.12924"
+         y="429.26041">
         <tspan
            id="tspan25606"
            sodipodi:role="line"
-           y="454.01117"
-           x="376.4895 383.55014 386.57227 388.58698 393.6329 398.6788 401.20175 406.24768 408.77063 410.78537 415.83127 420.87717 423.40012 429.95255 434.99844 437.01318"
+           y="429.26041"
+           x="394.12924 398.79849 400.79703 402.12939 405.46631 408.80319 410.47165 413.80856 415.47699 416.80936 420.14624 423.48315 425.15161 429.48477 432.82166 434.15402"
            style="fill:#ffffff">Orientation Rule</tspan>
         <tspan
            id="tspan25608"
            sodipodi:role="line"
-           y="413.21738"
-           x="348.60089 354.14594 356.16068 360.69836 365.74426 368.26721 370.28195 375.32788"
+           y="402.28314"
+           x="375.68628 379.35327 380.68561 383.68643 387.02332 388.69174 390.02411 393.36102"
            style="fill:#ffffff">Fixation</tspan>
         <tspan
            id="tspan25610"
            sodipodi:role="line"
-           y="375.97202"
-           x="388.17859 394.73102 399.77692 401.79166 406.83755 409.36053 415.91293 420.95886"
+           y="377.65247"
+           x="401.85931 406.1925 409.52939 410.86176 414.19864 415.8671 420.20026 423.53717"
            style="fill:#ffffff">Rule Cue</tspan>
       </text>
       <text
          id="text25616"
-         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.07537556px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#373535;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         x="433.22839"
-         y="381.41968">
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00161839px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#373535;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="431.65112"
+         y="381.25507">
         <tspan
            id="tspan25618"
            sodipodi:role="line"
-           y="381.41968"
-           x="433.22839 439.28165 441.80463 443.81934 451.37915 456.42505 458.43979 463.48569 473.73178 480.28421 485.33011 489.8678 494.91373 499.95963 505.00552 509.54321"
+           y="381.25507"
+           x="431.65112 435.65417 437.32263 438.655 443.65436 446.99124 448.32361 451.66052 458.43634 462.7695 466.10641 469.10721 472.44412 475.78101 479.11792 482.11874"
            style="fill:#ffffff">StimulusResponse</tspan>
       </text>
       <g
          id="g25620"
-         transform="matrix(1.25,0,0,-1.25,335.36889,744.92918)">
+         transform="matrix(0.82663506,0,0,-0.82663506,366.93584,621.64682)">
         <g
            clip-path="url(#clipPath25624)"
            id="g25622">
