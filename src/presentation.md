@@ -91,6 +91,18 @@ Adjustments in control can occur rapidly. Reaction time and accuracy tend to cha
 
 # Task Switching Paradigm
 
+![](public/img/task-switch-paradigm-1.svg)
+
+# Task Switching Paradigm
+
+![](public/img/task-switch-paradigm-2.svg)
+
+# Task Switching Paradigm
+
+![](public/img/task-switch-paradigm-3.svg)
+
+# Task Switching Paradigm
+
 ![](public/img/task-switch-paradigm.svg)
 
 # Factors that Aﬀect the Amount of Attention Needed
