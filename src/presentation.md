@@ -93,15 +93,15 @@ Adjustments in control can occur rapidly. Reaction time and accuracy tend to cha
 
 ![](public/img/task-switch-paradigm-1.svg)
 
-# Task Switching Paradigm
+. . .
 
 ![](public/img/task-switch-paradigm-2.svg)
 
-# Task Switching Paradigm
+. . .
 
 ![](public/img/task-switch-paradigm-3.svg)
 
-# Task Switching Paradigm
+. . .
 
 ![](public/img/task-switch-paradigm.svg)
 
@@ -175,7 +175,7 @@ WHY: We are collecting more data
 
 # Interactive visualizations can help us quickly make comparisons and deal with complexity
 
-![Heer & Shneiderman (2012)](public\img\heer-table.svg)
+![Heer & Shneiderman (2012)](public/img/heer-table.svg)
 
 # Dynamic visualizations, when combined with interactivity, can help us understand complex data by preserving relationships between data
 
