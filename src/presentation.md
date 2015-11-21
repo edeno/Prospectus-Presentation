@@ -173,7 +173,11 @@ WHY: We are collecting more data
 
 # Related Work
 
-# RasterVis
+![pyCortex](public/img/GallantBrainViewer.gif)
+
+![Allen Connectivity Atlas](public/img/AllenBrainConnectivity.gif)
+
+# {id="RasterVis" class="githubRepo" data-background="img/RasterVisGithub.png"}
 
 [Demo](/glmVis/)
 
