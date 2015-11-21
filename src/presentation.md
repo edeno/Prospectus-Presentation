@@ -107,9 +107,19 @@ Adjustments in control can occur rapidly. Reaction time and accuracy tend to cha
 
 # Factors that Aﬀect the Amount of Attention Needed
 
-+  Errors in previous trials
-+  Stimulus Congruency
-+  Number of Rule Repetitions
+![](public/img/behavior-react-change-1.svg)
+
+. . .
+
+![](public/img/behavior-react-change-2.svg)
+
+. . .
+
+![](public/img/behavior-react-change-3.svg)
+
+# All Factors that Aﬀect Behavior
+
+![](public/img/behavior-react-change.svg)
 
 # Aim \#1
 
