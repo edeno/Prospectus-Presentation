@@ -18,7 +18,7 @@ Contrast
 
 # Rule / Task Set
 
-![](public/img/goals-stimuli-response.svg)
+![](img/goals-stimuli-response.svg)
 
 <aside class="notes">
 +  conceptual boundary for what constitutes distinct tasks fuzzy
@@ -37,7 +37,7 @@ Adjustments in control can occur rapidly. Reaction time and accuracy tend to cha
 
 # Cognitive Demand: The monitoring and allocation of control {data-background="orange"}
 
-![](public/img/Shallice.jpg)
+![](img/Shallice.jpg)
 
 <aside class="notes">
 +  need to configure appropriate set of processes linking sensory to motor (categorization, mapping, response)
@@ -69,35 +69,35 @@ Adjustments in control can occur rapidly. Reaction time and accuracy tend to cha
 
 # Task Switching Paradigm
 
-![](public/img/task-switch-paradigm-1.svg)
+![](img/task-switch-paradigm-1.svg)
 
 # Task Switching Paradigm
 
-![](public/img/task-switch-paradigm-2.svg)
+![](img/task-switch-paradigm-2.svg)
 
 # Task Switching Paradigm
 
-![](public/img/task-switch-paradigm-3.svg)
+![](img/task-switch-paradigm-3.svg)
 
 # Task Switching Paradigm
 
-![](public/img/task-switch-paradigm.svg)
+![](img/task-switch-paradigm.svg)
 
 # Factors that Aﬀect the Amount of Attention Needed
 
-![](public/img/behavior-react-change-1.svg)
+![](img/behavior-react-change-1.svg)
 
 # Factors that Aﬀect the Amount of Attention Needed
 
-![](public/img/behavior-react-change-2.svg)
+![](img/behavior-react-change-2.svg)
 
 # Factors that Aﬀect the Amount of Attention Needed
 
-![](public/img/behavior-react-change-3.svg)
+![](img/behavior-react-change-3.svg)
 
 # All Factors that Aﬀect Behavior
 
-![](public/img/behavior-react-change.svg)
+![](img/behavior-react-change.svg)
 
 # Aim \#1
 
@@ -149,7 +149,7 @@ Interactive Visualizations
 
 # Interactive visualizations can help us quickly make comparisons and deal with complexity
 
-![Heer & Shneiderman (2012)](public/img/heer-table.svg)
+![Heer & Shneiderman (2012)](img/heer-table.svg)
 
 # Dynamic visualizations, when combined with interactivity, can help us understand complex data by preserving relationships between data
 
@@ -157,9 +157,9 @@ Interactive Visualizations
 
 # Related Work
 
-![pyCortex](public/img/GallantBrainViewer.gif)
+![pyCortex](img/GallantBrainViewer.gif)
 
-![Allen Connectivity Atlas](public/img/AllenBrainConnectivity.gif)
+![Allen Connectivity Atlas](img/AllenBrainConnectivity.gif)
 
 # {id="RasterVis" class="githubRepo" data-background="img/RasterVisGithub.png"}
 
