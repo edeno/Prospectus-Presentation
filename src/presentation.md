@@ -93,15 +93,15 @@ Adjustments in control can occur rapidly. Reaction time and accuracy tend to cha
 
 ![](public/img/task-switch-paradigm-1.svg)
 
-. . .
+# Task Switching Paradigm
 
 ![](public/img/task-switch-paradigm-2.svg)
 
-. . .
+# Task Switching Paradigm
 
 ![](public/img/task-switch-paradigm-3.svg)
 
-. . .
+# Task Switching Paradigm
 
 ![](public/img/task-switch-paradigm.svg)
 
@@ -109,11 +109,11 @@ Adjustments in control can occur rapidly. Reaction time and accuracy tend to cha
 
 ![](public/img/behavior-react-change-1.svg)
 
-. . .
+# Factors that Aﬀect the Amount of Attention Needed
 
 ![](public/img/behavior-react-change-2.svg)
 
-. . .
+# Factors that Aﬀect the Amount of Attention Needed
 
 ![](public/img/behavior-react-change-3.svg)
 
@@ -143,15 +143,11 @@ Adjustments in control can occur rapidly. Reaction time and accuracy tend to cha
 
 Interactive Visualizations
 
-#
-
-WHY: Statistical summaries can be misleading
+# WHY: Statistical summaries can be misleading
 
 <span class="parenthetical">(Visualizations help us check our assumptions)</span>
 
-#
-
-WHY: We are collecting more data
+# WHY: We are collecting more data
 
 +  More data → more complex theories → more comparisons
 
