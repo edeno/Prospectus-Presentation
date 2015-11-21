@@ -181,11 +181,11 @@ WHY: We are collecting more data
 
 [Demo](/glmVis/)
 
-# SpectraVis
+# {id="SpectraVis" class="githubRepo" data-background="img/SpectraVisGithub.png"}
 
 [Demo](/SpectraVis/public/)
 
-# glmVis
+# {id="glmVis" class="githubRepo" data-background="img/glmVisGithub.png"}
 
 [Demo](/glmVis/)
 
