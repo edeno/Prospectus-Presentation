@@ -129,16 +129,22 @@ Interactive Visualizations
 
 +  More data → more complex theories → more comparisons
 
-. . .
+# WHY: We are collecting more data
 
++  More data → more complex theories → more comparisons
 +  Multidimensional data requires multiple views and summaries to fully understand
 
-. . .
+# WHY: We are collecting more data
 
++  More data → more complex theories → more comparisons
++  Multidimensional data requires multiple views and summaries to fully understand
 +  Harder to display all the data on a single static figure
 
-. . .
+# WHY: We are collecting more data
 
++  More data → more complex theories → more comparisons
++  Multidimensional data requires multiple views and summaries to fully understand
++  Harder to display all the data on a single static figure
 +  Examining raw data becomes more difficult
 
 # {data-background="img/too-many-files.svg"}
