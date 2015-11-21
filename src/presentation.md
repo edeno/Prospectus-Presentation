@@ -163,7 +163,7 @@ Interactive Visualizations
 
 # {id="RasterVis" class="githubRepo" data-background="img/RasterVisGithub.png"}
 
-[Demo](/glmVis/)
+[Demo](/RasterVis/)
 
 # {id="SpectraVis" class="githubRepo" data-background="img/SpectraVisGithub.png"}
 
