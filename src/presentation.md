@@ -203,9 +203,9 @@ CLUSTERS
 
 # Related Work
 
-![pyCortex](img/GallantBrainViewer.gif)
+![[pyCortex](https://github.com/gallantlab/pycortex) ](img/GallantBrainViewer.gif)
 
-![Allen Connectivity Atlas](img/AllenBrainConnectivity.gif)
+![[Allen Connectivity Atlas](http://connectivity.brain-map.org/)](img/AllenBrainConnectivity.gif)
 
 # {id="RasterVis" class="githubRepo" data-background="img/RasterVisGithub.png"}
 
