@@ -153,7 +153,11 @@ CLUSTERS
 
 # Aim \#3
 
-Interactive Visualizations
+![[RasterVis](https://github.com/edeno/RasterVis)](img/rasterVisDemo.gif)
+
+![[SpectraVis](https://github.com/edeno/SpectraVis)](img/SpectraVisDemo.gif)
+
+![[glmVis](https://github.com/edeno/glmVis)](img/glmVisDemo.gif)
 
 # WHY: Statistical summaries can be misleading
 
