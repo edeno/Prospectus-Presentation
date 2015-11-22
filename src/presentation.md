@@ -1,6 +1,5 @@
 % The role of prefrontal cortex in task switching
 % Eric Denovellis
-% November 23, 2015
 
 # {#monsell data-background="img/apple-iphone.jpg"}
 <audio data-autoplay>
