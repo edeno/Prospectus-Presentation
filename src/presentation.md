@@ -130,8 +130,6 @@ Adjustments in control can occur rapidly. Reaction time and accuracy tend to cha
 
 # Motivation for Aim \#2 and Aim \#3
 
-# Tools for Investigating Multi-dimensional Models
-
 # SFN Poster Analysis and Problems
 
 +  Many low firing rate neurons (histogram here)
