@@ -34,7 +34,7 @@ Adjustments in control can occur rapidly. Reaction time and accuracy tend to cha
 +  When switching between tasks
 +  When responding to stimuli with more than response associated with them
 
-# Cognitive Demand: The monitoring and allocation of control {data-background="white"}
+# {data-background="white"}
 
 ![](img/Shallice.jpg)
 
