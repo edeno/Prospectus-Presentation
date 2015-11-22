@@ -163,6 +163,8 @@ CLUSTERS
 
 <span class="parenthetical">(Visualizations help us check our assumptions)</span>
 
+![Anscombe's quartet](img/Anscombe's_quartet_3.svg)
+
 # WHY: We are collecting more data
 
 +  More data → more complex theories → more comparisons
