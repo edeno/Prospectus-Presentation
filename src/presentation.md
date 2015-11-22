@@ -51,7 +51,11 @@ Adjustments in control can occur rapidly. Reaction time and accuracy tend to cha
 +  Perseverative behavior after injury
 +  Task responsive neurons
 
-# Dynamics
+# Dynamics: How is activity on network level in PFC coordinated so that the appropriate response is selected?
+
++  PFC neurons need to be able flexibly represent and switch between rules to bias other areas toward the appropriate sensory-motor representations.
+
++  They need to suppress inappropriate sensory-motor representations.
 
 # Functional Organization of the Prefrontal Cortex
 
@@ -61,7 +65,7 @@ Adjustments in control can occur rapidly. Reaction time and accuracy tend to cha
 
 # Outline
 - Task Switching Paradigm
-- Aim \#1: LFP Analysis
+- Aim \#1: LFP Dynamics
 - Aim \#2:  Single Neuron and Population Analysis
 - NEW Aim \#3: Tools for multi-dimensional investigation of electrophyisological datasets
 - Status of the Project
