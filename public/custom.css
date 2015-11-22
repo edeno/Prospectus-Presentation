@@ -1,5 +1,7 @@
 .reveal h1 {
   font-size: 1.0em;
+  text-transform: none;
+}
 }
 .reveal section img {
   background:none;
