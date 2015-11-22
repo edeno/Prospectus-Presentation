@@ -86,19 +86,19 @@ Adjustments in control can occur rapidly. Reaction time and accuracy tend to cha
 
 ![](img/task-switch-paradigm.svg)
 
-# Factors that Aﬀect the Amount of Attention Needed
+# Factors that Aﬀect the Amount of Attention Needed (Reaction Time)
 
 ![](img/behavior-react-change-1.svg)
 
-# Factors that Aﬀect the Amount of Attention Needed
+# Factors that Aﬀect the Amount of Attention Needed (Reaction Time)
 
 ![](img/behavior-react-change-2.svg)
 
-# Factors that Aﬀect the Amount of Attention Needed
+# Factors that Aﬀect the Amount of Attention Needed (Reaction Time)
 
 ![](img/behavior-react-change-3.svg)
 
-# All Factors that Aﬀect Behavior
+# All Factors that Aﬀect Behavior (Reaction Time)
 
 ![](img/behavior-react-change.svg)
 
