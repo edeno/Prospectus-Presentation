@@ -134,9 +134,22 @@ Adjustments in control can occur rapidly. Reaction time and accuracy tend to cha
 
 # SFN Poster Analysis and Problems
 
++  Many low firing rate neurons (histogram here)
++  Approach too data-mining centric (need to focus hypothesis)
++  Solution: **Regularization**
+
 # Proposed Corrections at Qualifying Exam
 
-# Current State: Proposed models
++ Fit one big model and examine effects
++ Problem: Interpretability
+
+# Current Status: Constrained set of models
+
+# Demonstration that models work
+
+# Current Problem
+
+CLUSTERS
 
 # Aim \#3
 
