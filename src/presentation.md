@@ -101,7 +101,9 @@ Adjustments in control can occur rapidly. Reaction time and accuracy tend to cha
 
 # Aim \#1
 
-# Rule-dependent networks in dlPFC
+# Rule-dependent networks in dlPFC {data-background="white"}
+
+![](img/alpha-beta-synchrony.svg)
 
 # Analysis of ACC and dlPFC-ACC Synchrony
 
