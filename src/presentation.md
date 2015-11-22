@@ -193,7 +193,7 @@ CLUSTERS
 
 > "...to convey the richness of the data stories we are telling rather than simplifying them" <footer> --- [Giorgia Lupi: The Architecture of a Data Visualization](https://medium.com/accurat-studio/the-architecture-of-a-data-visualization-470b807799b4)</footer>
 
-# Interactive visualizations can help us quickly make comparisons and deal with complexity
+# Interactive visualizations can help us quickly make comparisons and deal with complexity {data-background="white"}
 
 ![Heer & Shneiderman (2012)](img/heer-table.svg)
 
