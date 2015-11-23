@@ -225,7 +225,9 @@ CLUSTERS
 
 ![Heer & Shneiderman (2012)](img/heer-table.svg)
 
-# Dynamic visualizations, when combined with interactivity, can help us understand complex data by preserving relationships between data
+# Dynamic visualizations help us understand complex data by preserving relationships between data
+
+![Updating Bar Chart](img/Updating-Bar-Chart-720.gif)
 
 # Web-enabled visualizations are familiar, easily shareable, and enable analysis transparency
 
