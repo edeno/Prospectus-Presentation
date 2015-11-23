@@ -257,9 +257,7 @@ Maybe it's not mixed selectivity. Maybe we just don't have a task that discrimin
 
 ![[glmVis](https://github.com/edeno/glmVis)](img/glmVisDemo.gif)
 
-# WHY: Statistical summaries can be misleading
-
-<span class="parenthetical">(Visualizations help us check our assumptions)</span>
+# WHY: Statistical summaries can be misleading <span class="parenthetical">(Visualizations help us check our assumptions)</span>
 
 ![Anscombe's quartet](img/Anscombe's_quartet_3.svg)
 
