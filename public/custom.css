@@ -2,7 +2,6 @@
   font-size: 1.0em;
   text-transform: none;
 }
-}
 .reveal section img {
   background:none;
   border:none;
@@ -12,7 +11,6 @@
 #dynamic-visualizations img {
   max-width: 600px;
 }
-
 .reveal p, .reveal li {
   font-size: 1em;
   text-align: left;
@@ -47,7 +45,6 @@
   display: inline-block;
   width: 32%;
 }
-
 .reveal figcaption {
   font-size: 0.5em;
 }
