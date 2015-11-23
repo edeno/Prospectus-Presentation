@@ -229,7 +229,13 @@ CLUSTERS
 
 # Web-enabled visualizations are familiar, easily shareable, and enable analysis transparency
 
-# Related Work
++  Web-enabled visualizations work on many devices. No installation required.
+
++  Becoming more common in news graphics
+
++  Open Science
+
+# Related Work {class="two-figs"}
 
 ![[pyCortex](https://github.com/gallantlab/pycortex) ](img/GallantBrainViewer.gif)
 
