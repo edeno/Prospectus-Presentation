@@ -1,5 +1,4 @@
-% The role of prefrontal cortex in task switching
-% Eric Denovellis
+% PROGRESS REPORT: <br> The role of prefrontal cortex in task switching
 
 # {#monsell data-background="img/apple-iphone.jpg"}
 <audio data-autoplay>
@@ -312,7 +311,7 @@ Maybe it's not mixed selectivity. Maybe we just don't have a task that discrimin
 
 ![Heer & Shneiderman (2012)](img/heer-table.svg)
 
-# Dynamic visualizations help us understand complex data by preserving relationships between data
+# Dynamic visualizations help us understand complex data by preserving relationships between data {data-background="white"}
 
 ![Updating Bar Chart](img/Updating-Bar-Chart-720.gif)
 
@@ -330,6 +329,16 @@ Maybe it's not mixed selectivity. Maybe we just don't have a task that discrimin
 
 ![[Allen Connectivity Atlas](http://connectivity.brain-map.org/)](img/AllenBrainConnectivity.gif)
 
+# Interactive Visualization Goals
+
++  Create "building block" visualizations that can be combined and linked together or used independently.
+
++  Capture task-dependent nature of analysis. Allow aligning on different experimental events.
+
++  Make it easy for other people to use.
+
++  Allow exporting of static graphics.
+
 # {id="RasterVis" class="githubRepo" data-background="img/RasterVisGithub.png"}
 
 [Demo](/RasterVis/)
@@ -342,4 +351,4 @@ Maybe it's not mixed selectivity. Maybe we just don't have a task that discrimin
 
 [Demo](/glmVis/)
 
-# Linking visualizations together to explore datasets
+# Thank you
