@@ -40,9 +40,17 @@ Adjustments in control can occur rapidly. Reaction time and accuracy tend to cha
 
 <aside class="notes">
 +  need to configure appropriate set of processes linking sensory to motor (categorization, mapping, response)
-+  Don't always need to control
+
++  Don't always need to control (continuum between controlled vs. automatic processing)
+
 +  Fluctuations in control
+
++  limited capacity for control
+
++  people adjust their allocation of control as circumstances demand
+
 + Stroop task: When responding to stimuli with more than response associated with them (congruency)
+
   + Interestingly, effect isn't as strong when there are more incongruent trials relative to congruent trials
 </aside>
 
