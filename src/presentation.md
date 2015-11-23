@@ -177,7 +177,21 @@ Theory #4: Response-Outcome Associations/Reinforcement Learning – The ACC lear
 
 # Current Problem
 
-CLUSTERS
+# Potential Problems {data-background="white"}
+
+![Wallis et al. 2001 (in monkey PFC)](img/miller-rule.png)
+
+<aside class="notes">
+Maybe it's not mixed selectivity. Maybe we just don't have a task that discriminates enough between receptive fields?
+</aside>
+
+# Potential Problems {data-background="white"}
+
+![Raposo et al. 2014 (in rat PPC)](img/churchland.jpg)
+
+# Potential Problems {data-background="white"}
+
+![Park et al. 2014 (in monkey LIP)](img/pillow.jpg)
 
 # Aim \#3
 
