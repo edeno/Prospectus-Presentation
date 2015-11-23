@@ -42,7 +42,7 @@ Adjustments in control can occur rapidly. Reaction time and accuracy tend to cha
 
 # {data-background="white"}
 
-![](img/Shallice.jpg)
+![Norman and Shallice Model](img/Shallice.jpg)
 
 <aside class="notes">
 +  need to configure appropriate set of processes linking sensory to motor (categorization, mapping, response)
