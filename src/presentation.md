@@ -72,9 +72,9 @@ Adjustments in control can occur rapidly. Reaction time and accuracy tend to cha
 
 +  They need to suppress inappropriate sensory-motor representations.
 
-# Functional Organization of the Prefrontal Cortex
+# Functional Organization of the Prefrontal Cortex {data-background="white"}
 
-![](img/rule-selectivity-pfc.svg)
+![Wallis et al. 2001](img/rule-selectivity-pfc.svg)
 
 <aside class="notes">
 Rule selective neurons have been found in different subdivisions of PFC
