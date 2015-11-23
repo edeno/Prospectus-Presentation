@@ -9,7 +9,12 @@
   box-shadow:none;
   max-height: 450px !important;
 }
-.reveal section p {
+#dynamic-visualizations img {
+  max-width: 600px;
+}
+
+.reveal p, .reveal li {
+  font-size: 1em;
   text-align: left;
 }
 .reveal blockquote {
