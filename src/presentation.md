@@ -6,7 +6,7 @@
   <source data-src="cellphoneVibrate.mp3" type="audio/mp3" />
 </audio>
 
-> "Each of the objects and events we encounter in the environment affords a range of possible actions in response to it. The **appropriate response** varies as a function of the **task**"
+> "Each of the objects and events we encounter in the environment affords a range of possible actions in response to it. The appropriate response varies as a function of the task"
 <footer>--- Rogers & Monsell (1995)</footer>
 
 <aside class="notes">
