@@ -204,6 +204,10 @@ Also use multi-dimensional generalized linear regression models to account for m
 
 </aside>
 
+# Demonstration that models work {data-background="white"}
+
+![](img/isa16-13-2-ACC-PreviousErrorResponseDirection.svg)
+
 # SFN Poster Analysis {data-background="white"}
 
 ![](img/FactorImportance.svg)
@@ -241,10 +245,6 @@ Also use multi-dimensional generalized linear regression models to account for m
 +  Previous Error + Response Direction + Rule Repetition + Rule
 
 +  Previous Error + Response Direction + Congruency + Rule
-
-# Demonstration that models work {data-background="white"}
-
-![](img/isa16-13-2-ACC-PreviousErrorResponseDirection.svg)
 
 # Potential Problems {data-background="white"}
 
