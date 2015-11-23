@@ -87,6 +87,15 @@ Theory #3: Conflict Monitoring – The ACC detects incompatible representations 
 Theory #4: Response-Outcome Associations/Reinforcement Learning – The ACC learns to associate responses with an expected outcome (positive or negative) and the amount of effort required to achieve that outcome (cost and frequency of response, action-reward ratios) – Pr(Outcome | Response). In the context of cued task switching, the ACC’s role should be less central, since response and reward combinations are not particularly informative. Factors predicted: Previous Error, Response Direction.
 
 # Mixed selectivity
+# {data-background="white"}
+
+![](img/mixed-selectivity.svg)
+
+<aside class="notes">
++  Prefrontal neurons are known to integrate multiple parameters of a task (large receptive fields, lots of converging inputs, pyramidal neurons are more spiny)
+
++  Examining their effects individually might overestimate their importance
+</aside>
 
 # Outline
 - Task Switching Paradigm
