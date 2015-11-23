@@ -164,7 +164,12 @@ Theory #4: Response-Outcome Associations/Reinforcement Learning – The ACC lear
 # Proposed Corrections at Qualifying Exam
 
 + Fit one big model and examine effects
-+ Problem: Interpretability
+
++ Use regularization as a soft-threshold to constrain the fitting space
+
+# Problem: Interpretability {data-background="white"}
+
+![](img/rule-preference-interpretability.svg)
 
 # Current Status: Constrained set of models
 
