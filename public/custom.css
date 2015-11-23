@@ -39,7 +39,7 @@
   z-index:0;
   text-indent:-5000em;
 }
-#related-work figure {
+.two-figs figure {
   display: inline-block;
   width: 49%;
 }
