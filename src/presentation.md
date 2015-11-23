@@ -59,7 +59,32 @@ Adjustments in control can occur rapidly. Reaction time and accuracy tend to cha
 
 # Functional Organization of the Prefrontal Cortex
 
-# The problem of the ACC
+![](img/rule-selectivity-pfc.svg)
+
+<aside class="notes">
+Rule selective neurons have been found in different subdivisions of PFC
+
+Not much is known about how this representation interacts with attentionally demanding factors.
+</aside>
+
+# The problem of the ACC --- No consensus
+
++  Selection for action?
++  Error Detection?
++  Conflict Monitoring?
++  Reinforcement Learning?
++  Error Likelihood?
++  Predicted Response-Outcome?
++  Hierarchical Error Representation?
+
+<aside class="notes">
+Theory #1: Selection-For-Action – The ACC is responsible for selecting the relevant sensory information to make an action. It prevents competition between possible responses. Factors predicted: Rule, Test Stimulus, Response Direction.
+
+Theory #2: Error Detection – The ACC makes a comparison between the response in progress and the intended response (the correct response) or between the received reward and expected reward. Can also use that comparison to adjust or correct responses even as the response is ongoing. Factors predicted: Previous Error, Response Direction.
+
+Theory #3: Conflict Monitoring – The ACC detects incompatible representations (responses, stimuli, contexts, etc.) and signals lateral prefrontal areas to make attentional adjustments. Factors predicted: Switch, Previous Error, Congruency.
+
+Theory #4: Response-Outcome Associations/Reinforcement Learning – The ACC learns to associate responses with an expected outcome (positive or negative) and the amount of effort required to achieve that outcome (cost and frequency of response, action-reward ratios) – Pr(Outcome | Response). In the context of cued task switching, the ACC’s role should be less central, since response and reward combinations are not particularly informative. Factors predicted: Previous Error, Response Direction.
 
 # Mixed selectivity
 
